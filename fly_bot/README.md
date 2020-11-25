@@ -1,5 +1,10 @@
 
 # ROS-Quadcopter-Simulation
+
+IMPORTANT NOTE: This projet was done using the ROS-quadcopter-simulation from NishanthARao as a basis. 
+This readme is the readme for his project and is not updated yet for the terrain follonwing drone.
+
+
 This is an on-going project on simulating drone and stabilizing it using Approximate Dynamic Programming on ROS-Gazebo (melodic version of ROS and Gazebo version 9)
 
 This is a simulation of Joop-Brokking's Quadcopter. He has great tutorial videos on YouTube:
